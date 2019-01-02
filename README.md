@@ -11,7 +11,7 @@
   * NotifierIcon
   * Timer
   * ico file:  
-  ![notification logo](https://github.com/humayoun007/Notifier_WinForm/tree/master/NotifierApp/bin/Debug/image/notification.jpg "Notifier Logo")
+  ![notification logo](https://github.com/humayoun007/Notifier_WinForm/tree/master/NotifierApp/bin/Debug/image/notification.png "Notifier Logo")
   
 
   
