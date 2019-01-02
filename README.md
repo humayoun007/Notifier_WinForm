@@ -10,9 +10,10 @@
 ..* Microsoft Windows Form 
   * NotifierIcon
   * Timer
-  * ico file  ![alt text](https://github.com/humayoun007/Notifier_WinForm/tree/master/NotifierApp/bin/Debug/image/notification.jpg "Notifier Logo")
-  
+  * ico file:  
   ![alt text](https://github.com/humayoun007/Notifier_WinForm/tree/master/NotifierApp/bin/Debug/image/notification.jpg "Notifier Logo")
+  
+
   
 
 **__How to use when your system start (assuming you are using win OS)__**
