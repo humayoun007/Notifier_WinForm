@@ -5,7 +5,7 @@
 
 
 **__using technologies__**
-
+----------------------------------
 * C# as a programming language
 * Microsoft Windows Form 
   * NotifierIcon
