@@ -1,7 +1,7 @@
 ### This Project name is Notifier WINFORM
 =============================================
 
-** This Project soul purpose is give notification on taskbar after 20 minutes to warn about move your eyes from your monitor as you have spend more than 20 minutes which may effect your eyes , so take rest about 3 minutes and come back then.  **
+**This Project soul purpose is give notification on taskbar after 20 minutes to warn about move your eyes from your monitor as you have spend more than 20 minutes which may effect your eyes , so take rest about 3 minutes and come back then.**
 
 
 **__using technologies__**
