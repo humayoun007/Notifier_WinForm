@@ -18,5 +18,5 @@
 **__How to use when your system start (assuming you are using win OS)__**
 
 Place .exe file and image folder from bin directory to below location for start application when os start
-%AppData% (in Run command) then go to this directory  Microsoft\Windows\Start Menu\Programs\Startup and paste here.
+%AppData% (in Run command) then go to this directory  Microsoft\Windows\Start Menu\Programs\Startup and paste there.
 
