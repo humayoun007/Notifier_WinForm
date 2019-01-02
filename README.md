@@ -6,8 +6,8 @@
 
 **__using technologies__**
 
-..* C# as a programming language
-..* Microsoft Windows Form 
+* C# as a programming language
+* Microsoft Windows Form 
   * NotifierIcon
   * Timer
   * ico file:![notification](https://github.com/humayoun007/Notifier_WinForm/tree/master/NotifierApp/bin/Debug/image/notification.png "Notifier Logo")
