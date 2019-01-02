@@ -1,0 +1,14 @@
+C:\Users\humayoun\Desktop\NotifierApp\NotifierApp\bin\Debug\NotifierApp.exe
+C:\Users\humayoun\Desktop\NotifierApp\NotifierApp\bin\Debug\NotifierApp.pdb
+C:\Users\humayoun\Desktop\NotifierApp\NotifierApp\obj\x86\Debug\NotifierApp.Form1.resources
+C:\Users\humayoun\Desktop\NotifierApp\NotifierApp\obj\x86\Debug\NotifierApp.Properties.Resources.resources
+C:\Users\humayoun\Desktop\NotifierApp\NotifierApp\obj\x86\Debug\NotifierApp.csproj.GenerateResource.Cache
+C:\Users\humayoun\Desktop\NotifierApp\NotifierApp\obj\x86\Debug\NotifierApp.exe
+C:\Users\humayoun\Desktop\NotifierApp\NotifierApp\obj\x86\Debug\NotifierApp.pdb
+D:\Additioanl_Project\NotifierApp\NotifierApp\bin\Debug\NotifierApp.exe
+D:\Additioanl_Project\NotifierApp\NotifierApp\bin\Debug\NotifierApp.pdb
+D:\Additioanl_Project\NotifierApp\NotifierApp\obj\x86\Debug\NotifierApp.Form1.resources
+D:\Additioanl_Project\NotifierApp\NotifierApp\obj\x86\Debug\NotifierApp.Properties.Resources.resources
+D:\Additioanl_Project\NotifierApp\NotifierApp\obj\x86\Debug\NotifierApp.csproj.GenerateResource.Cache
+D:\Additioanl_Project\NotifierApp\NotifierApp\obj\x86\Debug\NotifierApp.exe
+D:\Additioanl_Project\NotifierApp\NotifierApp\obj\x86\Debug\NotifierApp.pdb
